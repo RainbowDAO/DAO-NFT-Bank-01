@@ -1,0 +1,25 @@
+{
+  "name": "dao-nft-bank",
+  "version": "1.0.0",
+  "description": "stake erc20 transfer nft",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/michaelHookon/DAO-NFT-Bank-01.git"
+  },
+  "author": "micheal",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/michaelHookon/DAO-NFT-Bank-01/issues"
+  },
+  "homepage": "https://github.com/michaelHookon/DAO-NFT-Bank-01#readme",
+  "devDependencies": {
+    "hardhat": "^2.9.3"
+  },
+  "dependencies": {
+    "@openzeppelin/contracts": "^4.5.0"
+  }
+}
